@@ -1,6 +1,6 @@
 Change list for Sailing v1.0 :
 
-1.Kernel Changelist :
+1. Kernel Changelist :
   - Only the specified branch is reserved :
     - master
     - cust-lts4.7.1-d05-3.0b
@@ -11,7 +11,7 @@ Change list for Sailing v1.0 :
    - The performance optimization patch is merged based on 4.9.20
    - Part of 4.7 kernel configuration items are merged on the 4.9.20 kernel configuration
 
-2.Sailing Scripts Changelist :
+2. Sailing Scripts Changelist :
   - Support Ubuntu OS
   - Modify Sailing-config.xml configuration file , Sailingv1.0 based on estuary v3.0 release
   - Modify default.xml , evolution of version basd on master
@@ -25,7 +25,7 @@ Change list for Sailing v1.0 :
   - Add the kernel compilation script, and you can run the compilation kernel separately on the D05 board or x86
     - For specific commands, see. / scripts/built-kernel.sh -h
 
-3.BIOS Changelist :
+3. BIOS Changelist :
   - PCIe related problem repair
   - Build chain ES3000 card repeat
   - The version number was upgraded from 1.17 to 1.18
