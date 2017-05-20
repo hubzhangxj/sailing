@@ -31,5 +31,5 @@ Change list for Sailing v1.0 :
     - The version number was upgraded from 1.17 to 1.18
     - ACPI support for dynamically monitoring SFP light modules
     - The I2C rate is changed from 100K to 400K when 2P is initialized
-    - Change the BIOS default Settings:  <Die Interleaving> Disable & <ECC Support> Enable
+    - Change the BIOS default Settings:  Die Interleaving Disable and ECC Support Enable
 
