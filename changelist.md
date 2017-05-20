@@ -2,11 +2,11 @@ Change list for Sailing v1.0 :
 
 1.Kernel Changelist :
   - Only the specified branch is reserved :
-   - master
-   - cust-lts4.7.1-d05-3.0b
-   - ex-lts4.1.27-est-d03
-   - ex-lts4.1.34-est-d03
-   - ex-lts4.1.36-est-d05 
+    - master
+    - cust-lts4.7.1-d05-3.0b
+    - ex-lts4.1.27-est-d03
+    - ex-lts4.1.34-est-d03
+    - ex-lts4.1.36-est-d05 
    - The mainline version is 4.9.20
    - The performance optimization patch is merged based on 4.9.20
    - Part of 4.7 kernel configuration items are merged on the 4.9.20 kernel configuration
@@ -23,7 +23,7 @@ Change list for Sailing v1.0 :
   - The patch directory adds CentOS &ubuntu openssl performance enhancement patches
   - Sailing adds the post_insall.sh script to install the openssl after the system startup
   - Add the kernel compilation script, and you can run the compilation kernel separately on the D05 board or x86
-   - For specific commands, see. / scripts/built-kernel.sh -h
+    - For specific commands, see. / scripts/built-kernel.sh -h
 
 3.BIOS Changelist :
   - PCIe related problem repair
